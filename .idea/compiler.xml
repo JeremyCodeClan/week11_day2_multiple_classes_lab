@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Library" />
+        <module name="week11_day2_multiple_classes_lab" />
       </profile>
     </annotationProcessing>
   </component>
